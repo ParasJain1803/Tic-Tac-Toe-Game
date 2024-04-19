@@ -72,3 +72,12 @@ body {
 .hide {
   display: none;
 }
+
+.colorO {
+  color: red;
+}
+
+.colorX {
+  color: purple;
+}
+
